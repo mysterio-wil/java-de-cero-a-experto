@@ -23,6 +23,26 @@
 12. Hola Mundo con Netbeans
 - Ejercicio de codificación 1: Saludos desde Java [Código](src/IntroduccionJava/Exercise.java)
 
+#### Sección 3: Variables
+13. Variables en Java
+14. Ejemplo de Variables en Java [Código](src/Variables/Variables.java)
+15. Manejo de Memoria en Java
+16. Ejemplo Detalle de un Libro [Código](src/Variables/DetalleLibro.java)
+17. Reto - Solucion - Detalle de una Persona
+18. Solución - Detalle de una Persona [Código](src/Variables/DetallePersona.java)
+19. Tipos de Datos en Java - parte 1
+20. Tipos de Datos en Java - parte 2 [Código](src/Variables/TiposDatos.java)
+21. Reglas de Nombres de Variables en Java
+22. Ejemplo de Reglas de Nombres de Variables [Código](src/Variables/ReglasNombresVariables.java)
+23. Reto - Detalle de un Producto de una Tienda en Línea
+24. Solución - Detalle de un Producto de una Tienda en Línea [Código](src/Variables/TiendaLinea.java)
+25. Tipo var en Java
+26. Ejemplo tipo var en Java [Código](src/Variables/TipoVar.java)
+27. Concatenación de Cadenas en Java [Código](src/Variables/ConcatenacionCadenas.java)
+28. Constantes en Java [Código](src/Variables/Constantes.java)
+29. Reto - Reserva de Hoteles
+30. Solución - Reserva de Hoteles [Código](src/Variables/ReservaHoteles.java)
+
 ## Enlaces de interés
 
 * Impacto: [Índice TIOBE](https://www.tiobe.com/tiobe-index/) | [GitHub](https://github.blog/news-insights/octoverse/octoverse-2024/) | [Stack Overflow](https://survey.stackoverflow.co/2024/technology#most-popular-technologies-language)
